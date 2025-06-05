@@ -11,5 +11,5 @@ skills:
 - Microsoft Excel
 main-image: /SON09863_1.JPG
 ## Design
-bla bla bla
+Description: bla bla bla
 ---
