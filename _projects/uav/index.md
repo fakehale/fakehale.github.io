@@ -10,7 +10,8 @@ skills:
 - Teamwork
 - Microsoft Excel
 main-image: /SON09863_1.JPG
-## Design
-Description: bla bla bla
-include image-gallery.html images="SON09863_1.JPG" height="400"
+---
+
+---
+{%include image-gallery.html images="SON09863_1.JPG" height="400"%}
 ---
