@@ -13,5 +13,6 @@ main-image: /SON09863_1.JPG
 ---
 
 ---
-{%include image-gallery.html images="SON09863_1.JPG" height="400"%}
+{%include image-gallery.html images="SON09924_1.JPG" height="400"%}
+{%include image-gallery.html images="Material Iso View.png" height="400"%}
 ---
