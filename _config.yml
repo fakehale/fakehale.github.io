@@ -15,9 +15,7 @@ title: Hale Heemsoth's Portfolio # This is what shows up in the tab of the brows
 name: Hale Heemsoth
 headline: Recent Graduate in Aerospace Engineering From Iowa State University
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  Write an awesome intro and discuss your highlights and qualification. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/IMG_7799_1.jpg
@@ -47,24 +45,22 @@ external-links:    # input only your own url slug. The icons with missing entrie
 skills:
   - category: 3D Modeling
     tools:
-    - Solidworks
-    - Creo
+    - SolidWorks
+    - Creo Parametric
   - category: Software
     tools:
     - MATLAB
-  - category: Design Standards / Practices
+    - ANSYS
+    - Microsoft Windows
+    - Linux
+    - Git
+    - Excel
+  - category: Programming Languages
     tools:
-    - GD&T ASME Y14
-    - ISO fits and tolerances
-    - PLM (PTC Windchill / Arena)   
-  - category: Problem Solving / Risk Management
-    tools:
-    - Root Cause Analysis (e.g., 5 Whys, Fishbone Diagram)
-    - DFMEA / PFMEA 
-    - Six Sigma methodologies
-    - Shain Red-X
-
-
+    - Python
+    - C
+    - Excel VBA
+  
 # Contact Form Setup. Setup an account and copy over the key. When someone fills out the form, it will be received in your email.
 formspree-key:   xjkrgbga
 
