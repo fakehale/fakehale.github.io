@@ -9,13 +9,14 @@ skills:
 - Engineering Design Process
 - Teamwork
 - Microsoft Excel
+- Keyshot Studio
 main-image: /SON09863_1.JPG
 ---
 
 ---
 {%include image-gallery.html images="IMG_3626.jpeg, SON09924-1.JPG" height="300"%}
 {%include image-gallery.html images=" Material Iso View.png" height="300"%}
-SolidWorks assembly rendered in Keyshot
+SolidWorks assembly rendered in Keyshot Studio
 {% include youtube-video.html id="oVNcA8IwZYU" autoplay = "false" width= "900px" %}
 First hand launch test
 {% include youtube-video.html id="yfLB_F_gzZ0" autoplay = "false" width= "900px" %}
